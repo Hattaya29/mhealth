@@ -1,0 +1,56 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "firstname": "Benjawan",
+          "lastname": "Tanimsut",
+          "age": 20,
+          "attention": [
+              "clean food",
+              "beauty",
+              "health"
+          ],
+          "email": "a@mhealth.com",
+          "password": "64107758"
+      },
+      {
+          "id": 2,
+          "firstname": "Hattaya",
+          "lastname": "Yodpijit",
+          "age": 21,
+          "attention": [
+              "clean food",
+              "osmeceuticals",
+              "health"
+          ],
+          "email": "b@mhealth.com",
+          "password": "64115512"
+      },
+      {
+          "id": 3,
+          "firstname": "Sunitcha",
+          "lastname": "Ommaro",
+          "age": 20,
+          "attention": [
+              "cosmeceuticals",
+              "exercise",
+              "health"
+          ],
+          "email": "c@mhealth.com",
+          "password": "64126774"
+      },
+      {
+          "id": 4,
+          "firstname": "Watcharawalee",
+          "lastname": "Junapong",
+          "age": 20,
+          "attention": [
+              "clean food",
+              "exercise",
+              "health"
+          ],
+          "email": "d@mhealth.com",
+          "password": "64107758"
+      }
+  ]
+}
